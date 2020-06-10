@@ -1,0 +1,5 @@
+aws_region = "eu-west-1"
+aws_hosted_zone = "Z3JWPAW4CBLN1M"
+app_version_name_generator = "0.1"
+function_name_name_generator = "NameGenerator"
+s3_bucket = "sexy-people-crew.terraform"

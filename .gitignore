@@ -1,0 +1,8 @@
+*.swp
+*.tmp
+archives
+assets
+.terraform
+*.code-workspace
+*.tfstate
+*.backup
