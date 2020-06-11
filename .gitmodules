@@ -1,0 +1,3 @@
+[submodule "applications/foundryvtt-simple-name-generator-lambda"]
+	path = applications/foundryvtt-simple-name-generator-lambda
+	url = git@github.com:megastruktur/foundryvtt-simple-name-generator-lambda.git
